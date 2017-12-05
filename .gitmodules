@@ -1,0 +1,12 @@
+[submodule "DFPlayer-Eagle-Library"]
+	path = DFPlayer-Eagle-Library
+	url = https://github.com/inflop/DFPlayer-Eagle-Library.git
+[submodule "Adafruit-Eagle-Library"]
+	path = Adafruit-Eagle-Library
+	url = https://github.com/adafruit/Adafruit-Eagle-Library.git
+[submodule "SparkFun-Eagle-Libraries"]
+	path = SparkFun-Eagle-Libraries
+	url = https://github.com/sparkfun/SparkFun-Eagle-Libraries.git
+[submodule "chiengineer"]
+	path = chiengineer
+	url = https://github.com/chiengineer/Eagle-Libraries.git
