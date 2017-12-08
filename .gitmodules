@@ -10,3 +10,6 @@
 [submodule "chiengineer"]
 	path = chiengineer
 	url = https://github.com/chiengineer/Eagle-Libraries.git
+[submodule "ESP8266-Eagle_Library"]
+	path = ESP8266-Eagle_Library
+	url = https://github.com/wvanvlaenderen/ESP8266-Eagle_Library.git
