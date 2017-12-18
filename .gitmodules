@@ -13,3 +13,6 @@
 [submodule "ESP8266-Eagle_Library"]
 	path = ESP8266-Eagle_Library
 	url = https://github.com/wvanvlaenderen/ESP8266-Eagle_Library.git
+[submodule "2462-AA-BATT"]
+	path = 2462-AA-BATT
+	url = https://github.com/oakwhiz/2462-AA-BATT.git
