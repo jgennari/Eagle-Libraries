@@ -158,12 +158,12 @@
 <text x="-9.779" y="-0.381" size="1.27" layer="27">&gt;VALUE</text>
 </package>
 <package name="SW-18010P">
-<circle x="0" y="0" radius="2.35" width="0.1016" layer="21"/>
+<circle x="0" y="0" radius="2.35" width="0.254" layer="21"/>
 <pad name="1" x="0" y="0" drill="0.75"/>
 <pad name="2" x="1.524" y="0" drill="0.35"/>
-<wire x1="-2.413" y1="-0.127" x2="-2.413" y2="13.97" width="0.1016" layer="51"/>
-<wire x1="-2.413" y1="13.97" x2="2.413" y2="13.97" width="0.1016" layer="51"/>
-<wire x1="2.413" y1="13.97" x2="2.413" y2="-0.127" width="0.1016" layer="21"/>
+<wire x1="-2.413" y1="-0.127" x2="-2.413" y2="13.97" width="0.254" layer="21"/>
+<wire x1="-2.413" y1="13.97" x2="2.413" y2="13.97" width="0.254" layer="21"/>
+<wire x1="2.413" y1="13.97" x2="2.413" y2="-0.127" width="0.254" layer="21"/>
 <text x="-3.81" y="14.605" size="1.27" layer="25">&gt;NAME</text>
 <text x="-3.556" y="-4.191" size="1.27" layer="27">&gt;VALUE</text>
 </package>

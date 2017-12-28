@@ -164,7 +164,8 @@
 <wire x1="-2.413" y1="-0.127" x2="-2.413" y2="13.97" width="0.1016" layer="51"/>
 <wire x1="-2.413" y1="13.97" x2="2.413" y2="13.97" width="0.1016" layer="51"/>
 <wire x1="2.413" y1="13.97" x2="2.413" y2="-0.127" width="0.1016" layer="21"/>
-<text x="-3.81" y="14.605" size="1.27" layer="21">&gt;&gt;NAME</text>
+<text x="-3.81" y="14.605" size="1.27" layer="25">&gt;NAME</text>
+<text x="-3.556" y="-4.191" size="1.27" layer="27">&gt;VALUE</text>
 </package>
 <package name="2468">
 <wire x1="0" y1="24.13" x2="53.34" y2="24.13" width="0.127" layer="21"/>
