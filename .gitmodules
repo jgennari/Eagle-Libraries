@@ -10,3 +10,6 @@
 [submodule "chiengineer"]
 	path = chiengineer
 	url = https://github.com/chiengineer/Eagle-Libraries.git
+[submodule "eagle-lbr"]
+	path = eagle-lbr
+	url = https://github.com/1randy/eagle-lbr.git
